@@ -1,0 +1,15 @@
+input{
+  font-size: 1.75rem;
+  padding-right: 4rem;
+  letter-spacing: 0.2ch;
+  border-radius: 6px;
+  border-style: solid;
+  outline: none;
+  transition: border-color 0.2s,color 0.2s;
+}
+label {
+  position: absolute;
+  font-weight: 900;
+  letter-spacing: 0.1ch;
+  transition: color 0.2s;
+}
